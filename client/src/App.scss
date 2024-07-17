@@ -24,14 +24,13 @@
     flex-direction: column;
     min-height: 100vh;
     gap: 40px;
+    padding: 50px;
 
     .logo {
         width: 350px;
         height: 200px;
         @include MyFlex();
         flex-direction: column;
-        margin-top: -120px;
-
         h1 {
             color: #763695;
             font-family: "Gilroy";
