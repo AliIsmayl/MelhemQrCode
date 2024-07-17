@@ -17,7 +17,7 @@ function App() {
         </div>
         <div className="links">
           <div className="linkBox">
-            <Link className='link' to={"tel:0512017101"}>
+            <Link className='link' to={"https://api.whatsapp.com/send?phone=994512017101"}>
               <FaWhatsapp />
             </Link>
             <p>Whatsapp</p>
