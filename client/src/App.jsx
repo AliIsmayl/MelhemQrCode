@@ -71,7 +71,7 @@ function App() {
             <p>Location</p>
           </div>
           <div className="linkBox">
-            <Link className='link' to={"mailto:echovisioncompany@gmail.com"}>
+            <Link className='link' to={"mailto:info@melhemhospital.com"}>
               <TbMail />
             </Link>
             <p>Email</p>
